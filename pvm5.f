@@ -1,6 +1,7 @@
 c234567
       program pvm5
 c
+c     modificado por jp
 c=====================================================================
 c
 c Adapted from pvm4.f
