@@ -23,7 +23,7 @@ c i/o variables
       real ca		!Atmospheric CO2 pressure (Pa)
       real ipar		!incident photos. active radiation
 c
-      real ph		!Canopy gross photosyntheis (kgC/m2/yr)tivity
+      real ph		!Canopy gross photosynthesis (kgC/m2/yr)tivity
       real laia		!Leaf area index (m2 leaf/ m2 area)
       real ar		!Autotrophic (plant) respiration (kgC/m2/yr)
       real nppa		!Net primary productivity (kgC/m2/yr)
