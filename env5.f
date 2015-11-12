@@ -95,7 +95,7 @@ c 1 Pa CO2 = 9.901 ppmv CO2 (Adams et al. 2004)
 !      ca= 28.28 !Pa (=280 ppmv; Pre-Industrial Rev.)
 !      ca= 35.35 !Pa (=350 ppmv; 1961-1990)
       ca= 350/9.901 !Pa (=350 ppmv; 1961-1990)
-!      ca= 54.03 !Pa (=535 ppmv; SRES-B1 2080's)
+!      ca= 54.03 !Pa (=535 ptpmv; SRES-B1 2080's)
 !      ca= 73.73 !Pa (=730 ppmv; SRES-A2 2080's)
 !      ca= ((73.73-35.35)*0.5)+35.35 !Pa half effect!!!
 c
