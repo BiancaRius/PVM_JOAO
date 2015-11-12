@@ -1,7 +1,7 @@
 c234567
 c=======================================================================
 c Subroutine carbon1 calculates photosynthesis, plant respiration and
-c net primary productivity. Subroutine carbon2 calculates microbial
+c net   primary productivity. Subroutine carbon2 calculates microbial
 c respiration (yet to be improved).
 c
 c Code written by David Lapola
